@@ -1,9 +1,9 @@
 ### Hi, I'm Ilhan Altunbas
 
-Android engineer specializing in Kotlin, Jetpack Compose, and Kotlin Multiplatform (KMP), with hands-on experience integrating AI/RAG pipelines into mobile products. Based in Estaimpuis, Belgium (near Lille, France) - open to Android / mobile / backend roles in France and Belgium.
+Software engineer building AI-powered products end to end: RAG backends on Azure (Azure OpenAI, Azure AI Search, Container Apps) and cross-platform mobile clients with Kotlin Multiplatform. Based in Estaimpuis, Belgium (near Lille, France) - open to AI engineer, GenAI and mobile roles in France and Belgium.
 
 - Computer Science Engineering, Cukurova University (June 2026)
-- Currently building cross-platform (Android/iOS) products with Kotlin Multiplatform
+- Currently focused on RAG and GenAI applications on Azure
 - Turkish (native), English (fluent, B2+), French (B1)
 
 Connect: [LinkedIn](https://linkedin.com/in/IlhanAltunbas) - ilhanaltunbas.01@gmail.com
