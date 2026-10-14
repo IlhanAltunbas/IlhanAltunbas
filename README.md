@@ -1,12 +1,12 @@
 ### Hi, I'm Ilhan Altunbas
 
-Software engineer building AI-powered products end to end: RAG backends on Azure with Azure OpenAI, Azure AI Search and Container Apps, and cross-platform mobile clients with Kotlin Multiplatform. Based in Estaimpuis, Belgium, 25 minutes from Lille. Open to software, mobile and AI engineering roles in France and Belgium.
+Junior AI engineer building LLM applications end to end: RAG backends and agents on Azure with Azure OpenAI, Azure AI Search and Container Apps, measured with evaluation sets, plus cross-platform mobile clients with Kotlin Multiplatform. Based in Hainaut, Belgium, with unrestricted access to the Belgian labour market. Open to junior AI engineering and mobile roles in Brussels and Wallonia, available immediately.
 
-- Bachelor's degree in Computer Engineering, Çukurova University, June 2026
+- BSc Computer Engineering (4 years, 240 ECTS), Çukurova University, completed 2026
 - Currently working on agents, evaluation and observability for LLM applications
-- Turkish native · English fluent B2+ · French intermediate B1
+- Turkish native · English fluent B2+ · French B1 in progress
 
-Connect: [LinkedIn](https://linkedin.com/in/IlhanAltunbas) - ilhanaltunbas.01@gmail.com
+Portfolio and live demo: [ilhanaltunbas.github.io](https://ilhanaltunbas.github.io) - [LinkedIn](https://linkedin.com/in/IlhanAltunbas) - ilhanaltunbas.01@gmail.com
 
 ---
 
